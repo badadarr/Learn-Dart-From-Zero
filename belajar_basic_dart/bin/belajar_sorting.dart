@@ -14,11 +14,11 @@ void main() {
   ];
 
   List<Map<String, dynamic>> checkoutTokped = [
-    {"nama": "keyboard mechanical", "harga": 400000},
-    {"nama": "stand macbook", "harga": 85000},
-    {"nama": "kipas portable", "harga": 259000},
-    {"nama": "stand Handphone", "harga": 50000},
-    {"nama": "airpods pro", "harga": 2500000},
+    {"nama": "keyboard mechanical", "harga": 400.000},
+    {"nama": "stand macbook", "harga": 85.000},
+    {"nama": "kipas portable", "harga": 259.000},
+    {"nama": "stand Handphone", "harga": 50.000},
+    {"nama": "airpods pro", "harga": 2.500000},
   ];
 
   // Selling price from low to high
