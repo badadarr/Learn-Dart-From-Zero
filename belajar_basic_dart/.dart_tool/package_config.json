@@ -3,7 +3,7 @@
   "packages": [
     {
       "name": "lints",
-      "rootUri": "file:///C:/Users/Badar-Indri-Arfan/AppData/Local/Pub/Cache/hosted/pub.dartlang.org/lints-1.0.1",
+      "rootUri": "file:///Users/badarmaulana/.pub-cache/hosted/pub.dartlang.org/lints-1.0.1",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -14,7 +14,7 @@
       "languageVersion": "2.14"
     }
   ],
-  "generated": "2021-12-09T15:50:10.534176Z",
+  "generated": "2021-12-28T14:41:01.453633Z",
   "generator": "pub",
-  "generatorVersion": "2.15.0"
+  "generatorVersion": "2.14.4"
 }
