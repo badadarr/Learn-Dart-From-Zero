@@ -63,14 +63,6 @@ void main() {
   print('Ascending order: $myNumbers');
   print('Descending order ${myNumbers.reversed}');
 
-  var namaSaya = "Badar Maulana";
-  var yearsAge = 2004;
-  Double? prices = 299.000 as Double;
-  List<String> planet = ['saturnus', 'jupiter', 'uranus'];
-  var imageUrl = {
-    'tags': ['saturnus'],
-    'url': '//path/to/saturnus'
-  };
 }
 
 void belajarLoop() {
